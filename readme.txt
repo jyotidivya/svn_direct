@@ -1,3 +1,5 @@
+//information of folder's contents
+
 06_read_write_with_condition - p1 writes user inputted string to shm and process 2 reads from shm with a condition to synchronize.
 07_06_write_read_using_2_semaphores_works - p1 writes user inputted string to shm and process 2 reads from shm where two semaphore were used for better synchronization.
 08a_08_filedata_shm_sem_working - p1 reads line by line from file and writes to shm and p2 reads from shm.
